@@ -1,6 +1,6 @@
 # 2-html-css
 
-![view](https://user-images.githubusercontent.com/120960956/211602041-e45e5aa0-031e-4522-a989-0565a8bc3cf7.mp4)
+[view](https://user-images.githubusercontent.com/120960956/211602041-e45e5aa0-031e-4522-a989-0565a8bc3cf7.mp4)
 
 - [Demo Project]( https://mahsabbpour.github.io/2-html-css/)
 
